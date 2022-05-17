@@ -1,0 +1,8 @@
+# Project exclude paths
+/addressbook-web-tests/.gradle/
+/addressbook-web-tests/build/
+/addressbook-web-tests/build/classes/java/test/
+/sandbox/.gradle/
+/sandbox/build/
+/sandbox/build/classes/java/main/
+/sandbox/build/classes/java/test/
