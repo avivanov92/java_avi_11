@@ -1,13 +1,13 @@
 package ru.stqa.java_avi.addressbook.model;
 
-public class ContactsData {
+public class ContactData {
   private final String firstname;
   private final String lastname;
   private final String address;
   private final String mobile;
   private final String email;
 
-  public ContactsData(String firstname, String lastname, String address, String mobile, String email) {
+  public ContactData(String firstname, String lastname, String address, String mobile, String email) {
     this.firstname = firstname;
     this.lastname = lastname;
     this.address = address;
